@@ -17,14 +17,18 @@ iii) Characters:
 https://github.com/Adarsh2701/Harry-Potter-Movies-and-cast-Analysis-Tableau-Dashboard/blob/main/Characters.png
 
 Data Sources
+
 The data used in this project was gathered from various sources, including:
+
 
 Box office earnings data from Box Office Mojo.
 Movie ratings from Rotten Tomatoes and IMDb.
 Character information from the Harry Potter Wiki.
 
 Key Insights
+
 Some of the key insights derived from the analysis include:
+
 
 The evolution of box office performance over the series.
 How critical reception varied with each release.
